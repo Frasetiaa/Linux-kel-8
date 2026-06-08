@@ -3,6 +3,7 @@
 ## Connect Wifi
 iwctl
 
+
 ## Cek partisi
 lsblk
 
